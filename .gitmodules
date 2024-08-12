@@ -1,3 +1,6 @@
 [submodule "Plugins/FastNoise"]
 	path = Plugins/FastNoise
 	url = git@github.com:ArtemIyX/FastNoiseUnreal.git
+[submodule "Plugins/RealtimeMesh"]
+	path = Plugins/RealtimeMesh
+	url = git@github.com:ArtemIyX/RealtimeMeshUnreal.git
