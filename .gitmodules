@@ -4,3 +4,6 @@
 [submodule "Plugins/RealtimeMesh"]
 	path = Plugins/RealtimeMesh
 	url = git@github.com:ArtemIyX/RealtimeMeshUnreal.git
+[submodule "Plugins/ProceduralWorld"]
+	path = Plugins/ProceduralWorld
+	url = git@github.com:ArtemIyX/ProceduralWorldUnreal.git
