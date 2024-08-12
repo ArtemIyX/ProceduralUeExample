@@ -1,0 +1,3 @@
+[submodule "Plugins/FastNoise"]
+	path = Plugins/FastNoise
+	url = git@github.com:ArtemIyX/FastNoiseUnreal.git
