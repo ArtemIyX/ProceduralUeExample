@@ -7,3 +7,6 @@
 [submodule "Plugins/ProceduralWorld"]
 	path = Plugins/ProceduralWorld
 	url = git@github.com:ArtemIyX/ProceduralWorldUnreal.git
+[submodule "Plugins/DataSerializer"]
+	path = Plugins/DataSerializer
+	url = git@github.com:ArtemIyX/DataSerializerUnreal.git
