@@ -26,6 +26,11 @@
 		{
 			"Name": "UnrealFastNoise2",
 			"Enabled": true
+		},
+		{
+			"Name": "DataSerializer",
+			"Enabled": true
 		}
+
 	]
 }
