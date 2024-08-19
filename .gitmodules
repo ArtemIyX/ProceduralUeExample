@@ -10,3 +10,6 @@
 [submodule "Plugins/DataSerializer"]
 	path = Plugins/DataSerializer
 	url = git@github.com:ArtemIyX/DataSerializerUnreal.git
+[submodule "Plugins/EasySettings"]
+	path = Plugins/EasySettings
+	url = git@github.com:ArtemIyX/EasySettingsUnreal.git
