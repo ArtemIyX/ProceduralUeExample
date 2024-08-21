@@ -13,3 +13,6 @@
 [submodule "Plugins/EasySettings"]
 	path = Plugins/EasySettings
 	url = git@github.com:ArtemIyX/EasySettingsUnreal.git
+[submodule "Plugins/AdvancedAsset"]
+	path = Plugins/AdvancedAsset
+	url = git@github.com:ArtemIyX/AdvancedAssetUnreal.git
