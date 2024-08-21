@@ -34,6 +34,10 @@
 		{
 			"Name": "EasySettings",
 			"Enabled": true
+		},
+		{
+			"Name": "AdvancedAsset",
+			"Enabled": true
 		}
 	]
 }
