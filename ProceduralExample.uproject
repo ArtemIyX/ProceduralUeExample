@@ -42,6 +42,10 @@
 		{
 			"Name": "BlueprintCompiler",
 			"Enabled": true
+		},
+		{
+			"Name": "AdvancedLogger",
+			"Enabled": true
 		}
 	]
 }
