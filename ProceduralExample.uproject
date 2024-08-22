@@ -38,6 +38,10 @@
 		{
 			"Name": "AdvancedAsset",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintCompiler",
+			"Enabled": true
 		}
 	]
 }
