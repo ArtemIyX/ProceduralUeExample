@@ -16,3 +16,6 @@
 [submodule "Plugins/AdvancedAsset"]
 	path = Plugins/AdvancedAsset
 	url = git@github.com:ArtemIyX/AdvancedAssetUnreal.git
+[submodule "Plugins/BlueprintCompile"]
+	path = Plugins/BlueprintCompile
+	url = https://github.com/ArtemIyX/BlueprintCompileUnreal
