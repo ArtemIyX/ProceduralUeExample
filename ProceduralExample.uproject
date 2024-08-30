@@ -46,6 +46,10 @@
 		{
 			"Name": "AdvancedLogger",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintSubsystems",
+			"Enabled": true
 		}
 	]
 }

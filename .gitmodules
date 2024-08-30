@@ -22,3 +22,6 @@
 [submodule "Plugins/BlueprintCompiler"]
 	path = Plugins/BlueprintCompiler
 	url = git@github.com:ArtemIyX/BlueprintCompileUnreal.git
+[submodule "Plugins/BlueprintSubsystems"]
+	path = Plugins/BlueprintSubsystems
+	url = git@github.com:ArtemIyX/BlueprintSubsystemsUnreal.git
