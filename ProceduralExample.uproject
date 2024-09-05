@@ -50,6 +50,10 @@
 		{
 			"Name": "BlueprintSubsystems",
 			"Enabled": true
+		},
+		{
+			"Name": "AsyncBlueprints",
+			"Enabled": true
 		}
 	]
 }
